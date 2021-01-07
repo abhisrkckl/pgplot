@@ -104,8 +104,8 @@ static char rcsid[]="@(#)$Id: proccom.c,v 1.17 1993/10/08 00:02:48 figaro Exp fi
 /* The X Window include files */
 #include <X11/Xlib.h>
 #include <X11/Xatom.h>
-#include <X11/Intrinsic.h>
-#include <X11/StringDefs.h>
+//#include <X11/Intrinsic.h>
+//#include <X11/StringDefs.h>
 
 /* The program include files */
 #include "commands.h"
